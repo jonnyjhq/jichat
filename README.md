@@ -7,31 +7,30 @@ J信是一款基于原生Android的IM应用，主要面向企业用户，包含�
 消息列表可以显示各种消息通知一条不落 并且可以置顶和标记阅读状态
 
 
-#### 安装教程
+#### 聊天方式
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+单聊，群聊
 
-#### 使用说明
+#### 音视频通话
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+单人语音通话、单人视频通话
 
-#### 参与贡献
+#### 消息内容
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+文字、图片、静态表情、文档、短视频、位置
+
+#### 消息操作
+
+删除，转发，撤回
+
+#### 公众号
+
+自定义菜单、Webhook、富文本消息
 
 
-#### 特技
+#### 小程序
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+H5、Flutter，无限灵活扩展功能 嵌入原生应用，通过JS接口实现端对端的无缝衔接
+
+
+
